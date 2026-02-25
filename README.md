@@ -60,6 +60,15 @@ For encryption at rest, AWS Key Management Service (KMS) was used to create a cu
 
 Overall, this implementation successfully establishes a secure cloud environment by integrating IAM-based access control, encrypted storage, secure communication protocols, and key management best practices. The configuration aligns with AWS security standards and demonstrates a practical understanding of identity governance, storage security, and cryptographic protection mechanisms in a cloud infrastructure environment.
 
+<img width="1612" height="315" alt="Image" src="https://github.com/user-attachments/assets/45ab59f7-476e-4d1f-a6a7-a4db7de86846" />
+
+<img width="1598" height="402" alt="Image" src="https://github.com/user-attachments/assets/c1c03fb8-f109-49f0-906e-37134597e66a" />
+
+<img width="1581" height="573" alt="Image" src="https://github.com/user-attachments/assets/1092fb20-d847-4dfe-98c3-ca3bb3b688a8" />
+
+<img width="1918" height="492" alt="Image" src="https://github.com/user-attachments/assets/3204f864-60fc-48b8-ac3a-1072e6abb8bb" />
+
+<img width="1907" height="457" alt="Image" src="https://github.com/user-attachments/assets/c1e904d2-00c6-49e6-bad6-4da98ce926a0" />
 
 
 
